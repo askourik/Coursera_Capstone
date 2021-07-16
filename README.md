@@ -1,9 +1,8 @@
-  <body>
-    <div class="container-lg px-3 my-5 markdown-body">
+<body>
       
-      <h1><a href="https://github.com/askourik/Coursera_Capstone/">Coursera_Capstone,The-Battle-of-Neighborhoods</a></h1>
+<h1><a href="https://github.com/askourik/Coursera_Capstone/">Coursera_Capstone,The-Battle-of-Neighborhoods</a></h1>
 
-      <h1 id="How-to-Open-Most-Attractive-Student-Cafe-">How to Open Most Attractive Student Cafe ?</h1>
+<h1 id="How-to-Open-Most-Attractive-Student-Cafe-">How to Open Most Attractive Student Cafe ?</h1>
 
 <p><em>Andrey Skurikhin - Data Science Capstone - IBM Data Science Professional Certificate on Coursera</em></p>
 
@@ -43,6 +42,5 @@
 
 <h2 id="conclusion">6. Conclusion:<a class="anchorjs-link " href="https://github.com/askourik/Coursera_Capstone/index.html#conclusion" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
       
-    </div>
     
 </body>
