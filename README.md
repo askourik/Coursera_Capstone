@@ -1,23 +1,3 @@
-<!DOCTYPE html>
-<html lang="en-US"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-<title>How to Open Most Attractive Student Cafe ? | The-Battle-of-Neighborhoods</title>
-<meta name="generator" content="Jekyll v3.8.5">
-<meta property="og:title" content="How to Open Most Attractive Student Cafe ?">
-<meta property="og:locale" content="en_US">
-<meta name="description" content="Data Science Capstone course project offered by IBM on Coursera">
-<meta property="og:description" content="Data Science Capstone course project offered by IBM on Coursera">
-<link rel="canonical" href="https://github.com/askourik/Coursera_Capstone/index.html">
-<meta property="og:url" content="https://github.com/askourik/Coursera_Capstone/index.html">
-<meta property="og:site_name" content="The-Battle-of-Neighborhoods-1">
-<script type="application/ld+json">
-{"@type":"WebPage","url":"https://github.com/askourik/Coursera_Capstone/index.html","headline":"How to Open Most Attractive Student Cafe ?","description":"Data Science Capstone course project offered by IBM on Coursera","@context":"http://schema.org"}</script>
-
-    <style class="anchorjs"></style><link rel="stylesheet" href="./index.css">
-  </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
@@ -65,4 +45,4 @@
       
     </div>
     
-</body></html>
+</body>
