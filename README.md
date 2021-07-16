@@ -20,7 +20,7 @@
 
 <p>The student's interest in good cafe near the learning site is ovbious. If we have some creativity, we can found a modern place for relaxing and discussions.</p>
 
-<h2 id="data-section">2. Data section<a class="anchorjs-link " href="https://github.com/askourik/Coursera_Capstone/index.html#data-section" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
+<h2 id="datasection">2. Data section<a class="anchorjs-link " href="https://github.com/askourik/Coursera_Capstone/index.html#data-section" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
 
 <h3 id="datasources">2.1. Data Sources<a class="anchorjs-link " href="https://github.com/askourik/Coursera_Capstone/index.html#datasources" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h3>
 
